@@ -1,0 +1,11 @@
+1. Modificar la estructura de una tabla:
+    - Añadir una columna: `ALTER TABLE tabla ADD COLUMN columna_nueva tipo_dato;`
+    - Eliminar una columna: `ALTER TABLE tabla DROP COLUMN columna_existente;`
+    - Cambiar el tipo de dato de una columna: `ALTER TABLE tabla MODIFY COLUMN columna_existente nuevo_tipo_dato;`
+2. Modificar los datos de una tabla:
+    - Insertar nuevos datos: `INSERT INTO tabla (columna1, columna2, ...) VALUES (valor1, valor2, ...);`
+    - Actualizar datos existentes: `UPDATE tabla SET columna1 = valor_nuevo WHERE condición;`
+    - Eliminar datos: `DELETE FROM tabla WHERE condición;`
+3. Modificar la base de datos en sí:
+    - Renombrar la base de datos: `RENAME DATABASE base_de_datos_original TO base_de_datos_nueva;`
+    - Eliminar la base de datos: `DROP DATABASE base_de_datos;`
