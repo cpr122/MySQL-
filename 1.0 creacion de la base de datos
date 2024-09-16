@@ -10,4 +10,4 @@ CREATE TABLE usuarios (
     PRIMARY KEY (id)
 );
 -- agregar datos a la tabla
-INSERT INTO usuarios (nombre, email) VALUES ('Juan', 'juan@example.com');
+INSERT INTO usuarios (nombre, email) VALUES ('Juan', 'juan@example.com'));
