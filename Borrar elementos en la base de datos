@@ -1,6 +1,4 @@
-Para borrar elementos de una base de datos en MySQL, puedes utilizar el comando DELETE FROM seguido del nombre de la tabla y la condición que deseas aplicar para eliminar los elementos.
 
-Aquí te muestro algunos ejemplos:
 
 - Borrar todos los elementos de una tabla:
 
