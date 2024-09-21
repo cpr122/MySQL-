@@ -1,5 +1,3 @@
-
-
 - Borrar todos los elementos de una tabla:
 
 DELETE FROM mi_tabla;
