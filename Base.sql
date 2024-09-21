@@ -1,5 +1,3 @@
-
-
 CREATE TABLE clientes (
 id_cliente INT PRIMARY KEY,
 nombre VARCHAR(50) NOT NULL,
