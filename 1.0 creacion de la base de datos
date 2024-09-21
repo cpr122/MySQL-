@@ -1,6 +1,7 @@
 -- se crea la base datos 
 CREATE DATABASE mi_base_de_datos;
 -- para usar la base de datos 
+
 USE mi_base_de_datos;
 -- crear tablas 
 CREATE TABLE usuarios (
