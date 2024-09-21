@@ -1,5 +1,4 @@
 Para borrar una base de datos en MySQL, puedes utilizar el comando DROP DATABASE seguido del nombre de la base de datos que deseas eliminar.
-
 Aquí te muestro un ejemplo:
 
 DROP DATABASE mi_base_de_datos;
